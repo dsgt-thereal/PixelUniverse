@@ -39,6 +39,10 @@ MonoBehaviour:
   - ClickRpc
   - DestroyRpc
   - HeresWhy
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - RPCRefreshPlayerValues
   DisableAutoOpenWizard: 1
   ShowSettings: 0
   DevRegionSetOnce: 0
